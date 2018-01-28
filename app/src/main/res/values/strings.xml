@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WordsPlay</string>
+    <string name="title_activity_checknames">checknames</string>
+    <string name="title_activity_final">FINAL</string>
+    <string name="title_activity_highscore">highscore</string>
+</resources>
